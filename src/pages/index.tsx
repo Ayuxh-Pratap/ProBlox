@@ -20,7 +20,7 @@ export default function Home() {
       <Navbar />
 
       <section className="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-4 mb-4">
-        <div className="bg-zinc-200 h-[30rem] rounded-3xl p-10 flex flex-col gap-16 bg-[url('/gradient-bg.jpg')] bg-cover">
+        <div className="bg-zinc-200 lg:h-[30rem] h-[33rem] rounded-3xl p-10 flex flex-col gap-16 bg-[url('/gradient-bg.jpg')] bg-cover">
           <h1 className="text-4xl font-semibold">
             Hello, I am a Developer and I Forge Future for Web.
           </h1>
